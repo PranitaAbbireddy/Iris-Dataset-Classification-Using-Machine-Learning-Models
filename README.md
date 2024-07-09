@@ -1,4 +1,4 @@
-# Iris-Dataset-Classification-Using-Machine-Learning-Models
+# Iris Dataset Classification Using Machine Learning Models
 This project demonstrates the classification of the Iris dataset using various machine learning models and evaluates their performance based on precision, recall, and accuracy. The models include Logistic Regression, Support Vector Classifier (SVC), Decision Tree Classifier, and Gradient Boosting Classifier.
 
 ## Project Overview
