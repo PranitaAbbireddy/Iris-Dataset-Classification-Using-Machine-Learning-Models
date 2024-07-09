@@ -1,8 +1,8 @@
 # Iris Dataset Classification Using Machine Learning Models
-This project demonstrates the classification of the Iris dataset using various machine learning models and evaluates their performance based on precision, recall, and accuracy. The models include Logistic Regression, Support Vector Classifier (SVC), Decision Tree Classifier, and Gradient Boosting Classifier.
+This project demonstrates the classification of the Iris dataset using various machine learning models and evaluates their performance based on precision, recall, and accuracy. The models include Logistic Regression, Support Vector Classifier (SVC), Decision Tree Classifier and Gradient Boosting Classifier.
 
 ## Project Overview
-The Iris dataset is a classic dataset in the field of machine learning and statistics. It contains 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. The goal of this project is to classify the iris flowers into three species: Setosa, Versicolor, and Virginica.
+The Iris dataset is a classic dataset in machine learning and statistics. It contains 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. The goal is to classify the iris flowers into three species: Setosa, Versicolor and Virginia.
 
 ## Dataset
 The Iris dataset used in this project includes:
@@ -12,14 +12,14 @@ The Iris dataset used in this project includes:
 
 ## Methodology
 ### Data Preparation: 
-- Load the dataset and create a DataFrame.
+- Load the dataset and create a Data Frame.
 - Split the dataset into training and test sets.
 
 ### Model Training:
 - Train multiple models including Logistic Regression, SVC, Decision Tree Classifier, and Gradient Boosting Classifier on the training data.
 
 ### Model Evaluation:
-- Evaluate each model's performance using precision, recall, and accuracy.
+- Evaluate each model's performance using precision, recall and accuracy.
 - Use a custom evaluation function to print or return these metrics.
   
 ### Prediction:
